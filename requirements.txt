@@ -1,5 +1,5 @@
 six==1.15.0
-sklearn==0.15
+sklearn==0.25
 tensorflow==2.6.0
 tensorflow-estimator==2.6.0
 keras==2.6.0
